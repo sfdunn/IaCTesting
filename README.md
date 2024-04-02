@@ -6,6 +6,8 @@ Pleaceholder for detecting testing anti-patterns in IaC
 
 Mehedi Hassan (Lead) , Akond Rahman 
 
+Addition by Spencer Dunn to test Codacy
+
 ### Details 
 
 > Test Pattern Miner for Ansible(TAMA) 
